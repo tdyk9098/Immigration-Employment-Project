@@ -1,7 +1,7 @@
 # Immigration-Employment-Project
-An exploration into H-1B and Green Card PERM data.
 
-Welcome to my Immigration Employment Project! Please read the Final Report (attached in the repository) if you are interested in my research, methodology, and findings.
+# Welcome to my Immigration Employment Project! 
+Please read the Final Report (attached in the repository) if you are interested in my research, methodology, and findings.
 
 In this project I am exploring data compiled from the U.S. Department of Labor with two primary scopes: a longer term view over 2007-2021 and a more granular exploration over 2015-2021.
 
